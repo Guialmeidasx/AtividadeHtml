@@ -3,15 +3,14 @@
     top: 0;          
     left: 0;         
     width: 100%;    
-    background-color: #526df6; 
+    background-color: #f7cb8a; 
     padding: 30px; 
 }
 
 .container {
     width: 90%;
-    max-width: 1200px;
-    margin: 0;
-    
+    max-width: 1000px;
+    margin-top: 0%;
 }
 
 .nav-links {
@@ -22,12 +21,21 @@
 }
 
 .nav-links li {
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
 .nav-links a {
     color: #110101;
-    text-decoration:underline;
-    
+
+}
+body {
+    font-family:'Arial, Helvetica, sans-serif';
+    padding: 20px;
+    margin-top: 50px;
+    background-color:#ffdda9;
 }
 
+body {
+    font-size: 30px;
+    background-color:#ffdda9;
+}
